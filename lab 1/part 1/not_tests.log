@@ -1,0 +1,37 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\ifmo\functional circuitry\lab 1\not_tests.net
+Start Time: Sun Oct 12 18:35:10 2025
+Options: ALLOW_AMBIGUOUS_MODELS
+C:\ifmo\functional circuitry\lab 1\not_tests.net(15): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M1 VDD A N001 VDD PMOS l=90n w=600n
+                  ^^^^
+C:\ifmo\functional circuitry\lab 1\not_tests.net(16): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M2 N001 B VOUT N001 PMOS l=90n w=600n
+                    ^^^^
+C:\ifmo\functional circuitry\lab 1\not_tests.net(17): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M4 VOUT A 0 0 NMOS l=90n w=200n
+              ^^^^
+C:\ifmo\functional circuitry\lab 1\not_tests.net(18): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+M3 VOUT B 0 0 NMOS l=90n w=200n
+              ^^^^
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Instance "x1:x1:M4": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:M4": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:M3": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:M3": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:M1": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:M1": Width narrower than recommended for a level 1 MOSFET.
+Instance "x1:x1:M2": Length shorter than recommended for a level 1 MOSFET.
+Instance "x1:x1:M2": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 3.461 seconds.
+
+Files loaded:
+C:\ifmo\functional circuitry\lab 1\not_tests.net
+C:\Users\Екатерина\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\ifmo\functional circuitry\lab 1\90nm_bulk.txt
+
