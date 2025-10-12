@@ -1,137 +1,137 @@
 LTspice 24.1.10 for Windows
-Circuit: C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net
-Start Time: Sun Oct 12 21:01:03 2025
+Circuit: C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net
+Start Time: Sun Oct 12 23:15:40 2025
 Options: ALLOW_AMBIGUOUS_MODELS
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(37): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M1 VDD A N001 VDD PMOS l=90n w=600n
                   ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(38): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M2 N001 B VOUT N001 PMOS l=90n w=600n
                     ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(39): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M4 VOUT A 0 0 NMOS l=90n w=200n
               ^^^^
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net(40): This model has multiple definitions. Choosing one for you, unwisely. (Note: Option "ALLOW_AMBIGUOUS_MODELS" is enabled.)
 M3 VOUT B 0 0 NMOS l=90n w=200n
               ^^^^
 solver = Normal
@@ -228,10 +228,10 @@ Instance "x1:x11:M1": Width narrower than recommended for a level 1 MOSFET.
 Instance "x1:x11:M2": Length shorter than recommended for a level 1 MOSFET.
 Instance "x1:x11:M2": Width narrower than recommended for a level 1 MOSFET.
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 59.775 seconds.
+Total elapsed time: 59.026 seconds.
 
 Files loaded:
-C:\ifmo\functional circuitry\lab 1\part 1\demux_tests.net
+C:\ifmo\functional_circuitry\lab 1\part 1\demux_tests.net
 C:\Users\Екатерина\AppData\Local\LTspice\lib\cmp\standard.mos
-C:\ifmo\functional circuitry\lab 1\part 1\90nm_bulk.txt
+C:\ifmo\functional_circuitry\lab 1\part 1\90nm_bulk.txt
 
