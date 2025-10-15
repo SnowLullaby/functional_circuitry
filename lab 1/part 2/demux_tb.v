@@ -20,6 +20,9 @@ reg [1:0] test_val ;
 reg expected_val_q0, expected_val_q1, expected_val_q2, expected_val_q3 ;
 
 initial begin
+$dumpfile("demux_tb.vcd"); 
+$dumpvars(0, demux_tb);
+	
 d_in = 1;
 for (i = 0 ; i < 4 ; i = i +1) begin
     test_val = i ;
