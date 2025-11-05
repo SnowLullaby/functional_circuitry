@@ -3,6 +3,7 @@
 module func_test ();
     reg [7:0] a_bi, b_bi;
     reg clk_i, rst_i, start_i;
+	reg test;
     wire busy;
     wire [15:0] out;
     
@@ -50,10 +51,12 @@ module func_test ();
             a_bi = test_vectors[i][31:24];  
             b_bi = test_vectors[i][23:16];
             start_i = 1'b1;
-            #10;
+			test <= 1; 
+            #5;
             start_i = 1'b0;
             
             wait(busy == 1'b0);
+			test <= 0;
             #10;
             
             if (out === test_vectors[i][15:0]) begin

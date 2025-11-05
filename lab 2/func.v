@@ -71,10 +71,8 @@ always @(posedge clk) begin
                 
             START:
                 begin
-                    if (mult_busy && cbrt_busy) begin
-                        mult_start <= 1'b0;
-                        cbrt_start <= 1'b0;
-                    end
+                    mult_start <= 1'b0;
+                    cbrt_start <= 1'b0;
                     state <= WORK;
                 end
                 

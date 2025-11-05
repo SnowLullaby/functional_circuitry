@@ -38,7 +38,6 @@ module test ();
             rst_i = 1'b0;
             #10;
             
-            
             a_bi = test_vectors[i][11:4];  
             start_i = 1'b1;
             #10;
