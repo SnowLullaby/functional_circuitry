@@ -9,6 +9,7 @@ output q1,
 output q2,
 output q3
 ) ;
+
 wire not_a0 , not_a1 , not_d, y1 , y2, not_y1, not_y2;
 
 nor(not_d, d, d) ;

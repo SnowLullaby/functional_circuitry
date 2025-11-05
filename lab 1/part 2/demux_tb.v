@@ -38,7 +38,8 @@ for (i = 0 ; i < 4 ; i = i +1) begin
     end else begin
         $display("The demux output is wrong!!! a0_in=%b, a1_in=%b ,d_in=%b, q0_out = %b, q1_out = %b, q2_out = %b, q3_out = %b" ,a0_in ,a1_in ,d_in, q0_out, q1_out, q2_out, q3_out) ;
     end
-    end
-    #10 $stop ;
+end
+
+#10 $stop ;
 end
 endmodule
